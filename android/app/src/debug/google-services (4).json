@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839146564066",
+    "project_id": "firebse-auth-b9ab7",
+    "storage_bucket": "firebse-auth-b9ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839146564066:android:e3852d837ac4cf09d0f1bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839146564066-d9gspdsi03ocvhbk5tav7h7nibkrh0bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvA2tOqx6cKpqARuE1nLS_-oCBKoI-ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839146564066-d9gspdsi03ocvhbk5tav7h7nibkrh0bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
